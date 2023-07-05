@@ -1,0 +1,13 @@
+div {
+    width: 100%;
+}
+header{
+    height: 80px;
+    background: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.active{
+    color: lightcoral;
+}
